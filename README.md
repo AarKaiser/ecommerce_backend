@@ -10,7 +10,7 @@ Problem Solved: - The management of inventory.
 Lessons: - How to successfully "CRUD" with a database.
 
 ## Table of Contents:
-- [E-Commerce Back End](#E-Commerce Back End)
+- [E-Commerce Back End](#E&#8211;Commerce-Back-End)
   1. [Installation](#installation)
   2. [Usage](#usage)
   3. [Contributing](#contributing)
