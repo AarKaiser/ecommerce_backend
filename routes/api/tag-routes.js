@@ -30,7 +30,7 @@ router.get('/:id', (req, res) => {
       include: [{model:Category}, {model:Tag}],
       });
 
-    res.status(200).json(itagDta);
+    res.status(200).json(itagData);
     
   } catch (err) {
     res.status(500).json(err);
