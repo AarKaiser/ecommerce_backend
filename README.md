@@ -63,6 +63,8 @@ Please feel free to contact me with further questions via email, which is my pre
 ![Screenshot](https://raw.githubusercontent.com/AarKaiser/ecommerce_backend/main/assets/images/screenshot.png)
 
 ## Walkthough Video
+
+https://user-images.githubusercontent.com/87316518/142359750-88fc62a5-94c0-412a-a5f0-db1d65ffa89f.mp4
     
 [Download](https://github.com/AarKaiser/ecommerce_backend/blob/main/assets/video/walkthrough.mp4?raw=true)
 
